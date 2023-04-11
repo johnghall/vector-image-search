@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jpeg-js": "^0.4.4",
     "weaviate-ts-client": "^1.0.0"
   }
 }
